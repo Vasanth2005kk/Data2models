@@ -1,2 +1,3 @@
-# Data2models
-A collection of hands-on Machine Learning projects using Python, covering data preprocessing, exploratory data analysis, feature engineering, model building, and evaluation to solve real-world problems.
+#Data2Models 🚀
+
+Welcome to Data2Models, a collection of hands-on Machine Learning projects built using Python and popular data science libraries.
